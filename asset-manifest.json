@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.c5235cca.chunk.css",
+    "main.js": "/portfolio/static/js/main.bef2ea8b.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.bef2ea8b.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.84ed3dec.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.84ed3dec.js.map",
+    "static/js/2.535396ba.chunk.js": "/portfolio/static/js/2.535396ba.chunk.js",
+    "static/js/2.535396ba.chunk.js.map": "/portfolio/static/js/2.535396ba.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.c5235cca.chunk.css.map": "/portfolio/static/css/main.c5235cca.chunk.css.map",
+    "static/js/2.535396ba.chunk.js.LICENSE.txt": "/portfolio/static/js/2.535396ba.chunk.js.LICENSE.txt",
+    "static/media/ProfilePic.185e9cb9.jpeg": "/portfolio/static/media/ProfilePic.185e9cb9.jpeg",
+    "static/media/App.css": "/portfolio/static/media/Roboto-Regular.a8d6ac03.ttf",
+    "static/media/css.84e42507.svg": "/portfolio/static/media/css.84e42507.svg",
+    "static/media/express.17d6aefd.svg": "/portfolio/static/media/express.17d6aefd.svg",
+    "static/media/git.1396a4ad.svg": "/portfolio/static/media/git.1396a4ad.svg",
+    "static/media/html.6e7b1b46.svg": "/portfolio/static/media/html.6e7b1b46.svg",
+    "static/media/javascript.de4c2594.svg": "/portfolio/static/media/javascript.de4c2594.svg",
+    "static/media/node-js-logo.ca7d5097.svg": "/portfolio/static/media/node-js-logo.ca7d5097.svg",
+    "static/media/postgresql.70b8ad54.svg": "/portfolio/static/media/postgresql.70b8ad54.svg",
+    "static/media/project-a.45b6e50a.png": "/portfolio/static/media/project-a.45b6e50a.png",
+    "static/media/project-b.f2d53d0e.png": "/portfolio/static/media/project-b.f2d53d0e.png",
+    "static/media/project-c.46c9cc74.png": "/portfolio/static/media/project-c.46c9cc74.png",
+    "static/media/project-d.e3a0ad5b.png": "/portfolio/static/media/project-d.e3a0ad5b.png",
+    "static/media/project-e.f7bf11fd.png": "/portfolio/static/media/project-e.f7bf11fd.png",
+    "static/media/project-f.b29138dc.png": "/portfolio/static/media/project-f.b29138dc.png",
+    "static/media/project-g.595d6991.png": "/portfolio/static/media/project-g.595d6991.png",
+    "static/media/react.1520bd67.svg": "/portfolio/static/media/react.1520bd67.svg",
+    "static/media/sass.8aa78a83.svg": "/portfolio/static/media/sass.8aa78a83.svg",
+    "static/media/terminal.e3f84773.svg": "/portfolio/static/media/terminal.e3f84773.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84ed3dec.js",
+    "static/js/2.535396ba.chunk.js",
+    "static/css/main.c5235cca.chunk.css",
+    "static/js/main.bef2ea8b.chunk.js"
+  ]
+}
