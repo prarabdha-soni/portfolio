@@ -47,14 +47,14 @@ const SinglePage = () => {
         <h2>
           <span className="normal-text">
             Hi, <br />
-            My name is{" "}
+            {/* I'm {" "}*/}
           </span>
-          <span className="hightlight-text"> Prarabdha Soni.</span> <br />
+          <span className="hightlight-text">This is Prarabdha Soni.</span> <br />
           <span className="normal-text">I build for the </span>{" "}
           <span className="hightlight-text">
-            <span class="word w1">Web.</span>
-            <span class="word w2">Frontend.</span>
-            <span class="word w3">Backend.</span>
+            <span class="word w1">Software Engineer</span>
+            <span class="word w2">IIT Guwahati</span>
+            <span class="word w3">Full Stack Engineer</span>
           </span>
         </h2>
 
