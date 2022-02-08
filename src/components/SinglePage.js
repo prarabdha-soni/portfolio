@@ -50,12 +50,13 @@ const SinglePage = () => {
             {/* I'm {" "}*/}
           </span>
           <span className="hightlight-text">This is Prarabdha Soni.</span> <br />
-          <span className="normal-text">I build for the </span>{" "}
+            {/*<span className="normal-text">I build for the </span>{" "}*/}
           <span className="hightlight-text">
             <span class="word w1">Software Engineer</span>
             <span class="word w2">IIT Guwahati</span>
             <span class="word w3">Full Stack Engineer</span>
           </span>
+          <span className="hightlight-text">So Pro.</span>
         </h2>
 
         <div className="social-icons">
